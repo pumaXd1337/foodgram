@@ -98,3 +98,4 @@ Foodgram - это веб-приложение для публикации рец
 
 Проект использует GitHub Actions для автоматической проверки кода (linting), сборки Docker-образов и их отправки в Docker Hub при push в ветку `main`. Конфигурацию можно найти в файле `.github/workflows/main.yml`.
 
+"# Trigger CI" 
